@@ -1,2 +1,2 @@
 # MA303 MATLAB Projects
-This repo includes projects of MA303 MATLAB数学实验与数学软件
+This repo includes projects of MA303 MATLAB数学实验与数学软件，all realized in MATLAB
